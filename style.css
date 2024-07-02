@@ -1,0 +1,43 @@
+h3{
+    color: blue;
+    background-color: rgb(0, 255, 55);
+    text-align: center;
+    border-radius: 50px;
+    text-decoration: underline;
+}
+p{
+    text-align: center;
+}
+.blog{
+    background-color: antiquewhite;
+    border: 10px solid rgb(204, 0, 255);
+    border-radius: 10px;
+    box-shadow: 10px 10px rgba(207, 83, 231, 0.404);
+}
+#first{
+    margin-left: 0%;
+    margin-right: 75%;
+    background-image: url("images/action.jpeg");
+}
+#second{
+    margin-left: 25%;
+    margin-right: 50%;
+    background-image: url("images/car.jpeg");
+}
+#third{
+    margin-left: 50%;
+    margin-right: 25%;
+    background-image: url("images/drop.jpeg");
+    
+}
+#fourth{
+    margin-left: 75%;
+    margin-right: 0%;
+    background-image: url("images/wall.jpeg");
+}
+#third_txt{
+    color: rgba(0, 255, 255, 0.582);
+}
+#fourth_txt{
+    color: rgba(255, 255, 255, 0.582);
+}
